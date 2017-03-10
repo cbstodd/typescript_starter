@@ -1,4 +1,4 @@
-# typescript_starter
+# typescript_starter w/ Boostrap 3 cdn
 
 with system.js
 
