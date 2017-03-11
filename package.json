@@ -14,6 +14,7 @@
     "systemjs": "^0.19.41"
   },
   "devDependencies": {
-    "@types/jquery": "^2.0.34"
+    "@types/jquery": "^2.0.34",
+    "lite-server": "^2.3.0"
   }
 }
