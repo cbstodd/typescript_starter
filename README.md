@@ -10,15 +10,19 @@ Download file:
 
 To change name of the file:
 
-    mv typescript_starter NEW_PROJECT_NAME
+    mv typescript_starter new_project_name
 
 Change/move into the new directory:
 
-    cd NEW_PROJECT_NAME
+    cd new_project_name
 
 To rename the git repo to your own:
 
     git remote set-url origin https://github.com/YOUR_USERNAME/YourRepoName.git
+
+Rename project name in the package.json file.
+
+      "name": "new_project_name",
     
 Install dependencies (there may or may not be any, but do it anyway):
 
