@@ -16,7 +16,7 @@ Change/move into the new directory:
 
     cd new_project_name
 
-To rename the git repo to your own:
+To rename the git repo to your own. You also have to update this in your package.json file:
 
     git remote set-url origin https://github.com/YOUR_USERNAME/YourRepoName.git
 
